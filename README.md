@@ -50,7 +50,7 @@ If you want to train this dataset again or try the results for another category 
 The overall accuracy of the network is 94.4% and the overall mAP of the network for the threshold limit of 50% is equal to 91.2% .Other results and criteria are given in the following table and figure.
 
 <p align="center">
-        <img src="https://user-images.githubusercontent.com/61584820/181775367-2b11cc9c-cdf7-4c38-80fc-66a370767212.png" width=70% height=70%>
+        <img src="https://user-images.githubusercontent.com/61584820/185476694-feae43d0-9696-4543-bd7c-e8354c0725af.png" width=70% height=70%>
 </p>
 <p align="center">
         <img src="https://user-images.githubusercontent.com/61584820/181776107-457e638b-0cde-4aeb-8664-298b9006207a.png" width=70% height=70%>

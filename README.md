@@ -45,6 +45,13 @@ If you want to train this dataset again or try the results for another category 
 ## results 
 The overall accuracy of the network is 93% and the overall mAP of the network for the threshold limit of 50% is equal to 92.7% .Other results and criteria are given in the following table and figure.
 
+|class | percision  | recalling | Map for threshold 50 % | Map for threshold 50%-90% |
+| - | - | - |- |- |
+|For all classes | 93% | 86.3% |92.7 % |68.7 % |
+|car | 96.3 % | 85.1 %  |91.3 % |70 % |
+|bus | 93.5 % | 89.9 % |96.3 % |73.6 % |
+|truck | 89.3 % | 83.8 % |90.6 % |62 % |
+
 <p align="center">
         <img src="https://user-images.githubusercontent.com/61584820/185476694-feae43d0-9696-4543-bd7c-e8354c0725af.png" width=70% height=70%>
 </p>

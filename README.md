@@ -56,5 +56,5 @@ The overall accuracy of the network is 93% and the overall mAP of the network fo
 # license
 This dataset is made available for academic use only. 
 If you find your vehicle or personal information in this dataset, please contact us and we will remove the corresponding information from our dataset.
-may not use this work for commercial purposes (for commercial use, please contact us[contact us](@eng.Pouria.maleki@Gmail.com))
+may not use this work for commercial purposes (for commercial use, please [contact us](eng.Pouria.maleki@Gmail.com))
 If you use this dataset in your research , you should tag this GitHub and our article that will be published soon.

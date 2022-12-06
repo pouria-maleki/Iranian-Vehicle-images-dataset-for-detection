@@ -1,7 +1,7 @@
 # Iranian Vehicle images dataset for detection with Yolov5s  
-### If you need a dataset , contains 3000 images downloaded from online Iranian car sales companies, including" www.Divar.ir " and " www.bama.ir "sites  ,etc  which are manually labeled in three classes: "car", "truck", and "bus"
+### The dataset presented in this article contains 3000 images downloaded from online Iranian car sales companies, including Divar and Bama sites (" www.Divar.ir " ," www.bama.ir " ), which are manually labeled in three classes: car, truck, and bus.
 
-images below are examples of the output of the algorithm for test images after training the network : 
+Figure below are examples of the output of the algorithm for test images after training the YOLO network with this dataset : 
 
 <p align="center">
         <img src="https://user-images.githubusercontent.com/61584820/181746019-c355ec70-507c-4c16-ac76-7bb9fed15acb.png" width=70% height=70%>
@@ -12,7 +12,7 @@ images below are examples of the output of the algorithm for test images after t
 ------------------------------------------------------------------
 
 ## download Dataset
-There are three ways to download the dataset :
+There are two ways to download the dataset :
 1- Download from Roboflow :
 2- Download as a zip file from this address :
 
@@ -20,10 +20,6 @@ There are three ways to download the dataset :
 | - | - | - |
 | 1 | Download from Roboflow <br>  |[addresroboflow](https://universe.roboflow.com/sipo/iranian-vehicle-cjfc5)
 | 2 | Images with dimensions of 416 x 416 as a zip file in this Github  <br>  |[Iranian_vehicle_dataset.zip](/Iranian_vehicle_dataset.zip/)
-
-
-
- To understand the accuracy of this project for video you can watch the video below : 
 
  To train our detector we take the following steps:
 

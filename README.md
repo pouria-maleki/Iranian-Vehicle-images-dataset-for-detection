@@ -52,9 +52,6 @@ The overall accuracy of the network is 93% and the overall mAP of the network fo
 |bus | 93.5 % | 89.9 % |96.3 % |73.6 % |
 |truck | 89.3 % | 83.8 % |90.6 % |62 % |
 
-<p align="center">
-        <img src="https://user-images.githubusercontent.com/61584820/185476694-feae43d0-9696-4543-bd7c-e8354c0725af.png" width=70% height=70%>
-</p>
 
 
 ![results](https://user-images.githubusercontent.com/61584820/185478214-c68b534c-93be-41fe-8d5f-51da82b0bb89.png)

@@ -1,4 +1,4 @@
-# Iranian Vehicle images dataset for detection with Yolov5s  
+# Iranian Vehicle images dataset
 ### The dataset presented in this article contains 3000 images downloaded from online Iranian car sales companies, including Divar and Bama sites (" www.Divar.ir " ," www.bama.ir " ), which are manually labeled in three classes: car, truck, and bus.
 
 Figure below are examples of the output of the algorithm for test images after training the YOLO network with this dataset : 

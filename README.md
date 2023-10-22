@@ -37,24 +37,7 @@ The total number of images in the dataset is 3000, which includes 5,765 labels o
 | 1 | car <br>  |4333   
 | 2 | bus <br>  |893
 | 2 | Truck <br>  |539
-------------------------------------------------------------------
-## Train again or test dataset
-If you want to train this dataset again or try the results for another category of images or videos, you can use the final weight file [best.pt](/best.pt/) and use the  [iranian_vehicle_dataset_Train_Yolov5.ipynb](/iranian_vehicle_dataset_Train_Yolov5.ipynb/)  for more guidance.
 
---------------------------------------------------------------------
-## results 
-The overall accuracy of the network is 93% and the overall mAP of the network for the threshold limit of 50% is equal to 92.7% .Other results and criteria are given in the following table and figure.
-
-|class | percision  | recalling | Map for threshold 50 % | Map for threshold 50%-90% |
-| - | - | - |- |- |
-|For all classes | 93% | 86.3% |92.7 % |68.7 % |
-|car | 96.3 % | 85.1 %  |91.3 % |70 % |
-|bus | 93.5 % | 89.9 % |96.3 % |73.6 % |
-|truck | 89.3 % | 83.8 % |90.6 % |62 % |
-
-
-
-![results](https://user-images.githubusercontent.com/61584820/185478214-c68b534c-93be-41fe-8d5f-51da82b0bb89.png)
 
 
 # license
